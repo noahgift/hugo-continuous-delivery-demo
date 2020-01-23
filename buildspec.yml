@@ -2,7 +2,7 @@ version: 0.2
 
 environment_variables:
   plaintext:
-    HUGO_VERSION: "0.62"
+    HUGO_VERSION: "0.62.2-83E50184"
     
 phases:
   install:
